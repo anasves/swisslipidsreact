@@ -1,5 +1,7 @@
 # SwissLipidsReact
 
+Archived repository, the active version can be found at [SIB github](https://github.com/sib-swiss/swisslipidsreact)
+
 Expands Rhea reaction patterns into complete lipid reactions, resolving structures and assigning RInChIs.
 
 [![License](https://img.shields.io/github/license/sib-swiss/pyrheadb)](LICENSE)
